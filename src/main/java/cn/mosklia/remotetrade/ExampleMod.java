@@ -1,4 +1,4 @@
-package cn.mosklia.respawnableshulker;
+package cn.mosklia.remotetrade;
 
 import net.fabricmc.api.ModInitializer;
 import org.apache.logging.log4j.LogManager;

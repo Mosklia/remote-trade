@@ -1,6 +1,6 @@
-package cn.mosklia.respawnableshulker.mixin;
+package cn.mosklia.remotetrade.mixin;
 
-import cn.mosklia.respawnableshulker.ExampleMod;
+import cn.mosklia.remotetrade.ExampleMod;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
